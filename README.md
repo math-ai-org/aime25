@@ -1,0 +1,2 @@
+# aime25
+American Invitational Mathematics Examination (AIME) 2025
